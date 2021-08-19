@@ -1,1 +1,1 @@
-It is the first README file inside the repository.
+This is the second README file inside the project directory.
